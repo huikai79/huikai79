@@ -55,6 +55,11 @@ A reproducible competition snapshot demonstrating how the same user request and 
 
 The project uses synthetic data, explicit provenance boundaries, controlled A/B comparison, and reproducible local tests. No real payment or production authorization is claimed.
 
+## Other public work
+
+- [HC Reasoning](https://github.com/huikai79/hc-reasoning) — evidence-checking agent skill for separating supported claims, assumptions, alternatives, and decision-relevant unknowns.
+- [Model Thinking](https://github.com/huikai79/model-thinking) — multi-model reasoning skill for generating alternatives and checking applicability conditions before committing to a conclusion.
+
 ## Current engineering evidence
 
 For my ongoing UniAgent work:
